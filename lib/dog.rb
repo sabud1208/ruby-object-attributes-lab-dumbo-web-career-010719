@@ -17,17 +17,4 @@ class Dog
     @breed
   end
 end
-=======
-class Dog 
-  
-  def name=(dogs_name)
-    @this_dogs_name = dogs_name
-  end
- 
-  def name
-    @this_dogs_name
-  end
-end
 
-fido = Dog.name("Fido")
->>>>>>> a1086275a4677203bea34d15db331770ab2d6318
